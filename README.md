@@ -1,6 +1,7 @@
-# SQLQuery Device Start-Stop Cycle Duration
+## SQLQuery Device Start-Stop Cycle Duration
 
-Steps:
+
+# Steps:
 
 1.	Create table
 2.	Insert values
@@ -9,6 +10,6 @@ Steps:
 5.	Aggregation and Filtering (Alternatively, can be done on Power BI etc Report)
 6.	Drop tables 
 
-Execution Results: 
+# Execution Results: 
 
 ![Image001](Image001.PNG)
